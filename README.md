@@ -14,6 +14,7 @@
 
 ## 📢 Latest Updates
 - 📦 Paper, codebase, and dataset are coming soon! 🚀
+- **Mar-03-2026**: IEEE T-MM paper [link](https://ieeexplore.ieee.org/document/11420246)
 - **Sep-08-2025**: MVPC-CLIP paper is accepted by IEEE T-MM. 🔥🔥 
 ---
 
